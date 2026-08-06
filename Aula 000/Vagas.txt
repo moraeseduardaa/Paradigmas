@@ -1,0 +1,12 @@
+VAGAS ABERTAS:
+
+1 - Dev. Python - São Paulo-SP - ~ R$ 6.000,00 (Desenvolvedor Pleno) - INDEED
+1 - Desenvolvedor Automação de Processos - Maringá-PR - (sem faixa salarial) - LINKEDIN
+1 - Desenvolvedor Sênior Automação e Integrações - Maringá-PR - (sem faixa salarial) - LINKEDIN
+
+
+Faixa Salarial Maringá-PR:
+
+Júnior: R$ 3.500 a R$ 5.000 mensais (foco em integrações, ETL e automações básicas).
+Pleno: R$ 6.000 a R$ 9.000 mensais (desenvolvimento de APIs, web e manipulação de dados)
+Sênior / Especialista (RPA ou Dados): R$ 9.000 a R$ 11.000+ mensais (arquitetura de software e automações complexas)
